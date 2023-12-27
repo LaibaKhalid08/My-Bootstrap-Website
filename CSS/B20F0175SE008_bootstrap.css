@@ -1,0 +1,12 @@
+.navbar{
+    padding: 20px;
+}
+
+.carousel-item{
+    height: 400px;
+}
+
+.slider-img{
+    height: 100%;
+    object-fit: fill;   
+}
